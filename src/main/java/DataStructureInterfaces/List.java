@@ -8,7 +8,6 @@ public interface List<E> {
      * @return Returns number of elements in the list
      */
     int size();
-
     /**
      * Returns true if this list contains no elements.
      * @return true if list contains no elements.
